@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,700);
+
+body {
+	margin:0;
+	padding:0;
+}
+
+canvas {
+	display:block;
+}
+
+#contextmenu {
+	position:absolute;
+	background:#fbfcfc;
+	outline:#2c3e50;
+	padding:5px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:700;
+	box-shadow: 5px 5px 15px ;
+		-webkit-box-shadow: 5px 5px 15px ;
+		-o-box-shadow: 5px 5px 15px ;
+	display:none;
+}
